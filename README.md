@@ -24,8 +24,9 @@
 
 ## 📁 Alt Repos
 
-- 🎛️ Kullanıcı Arayüzü/UI: [shieldwrt-ui]([https://github.com/kendi-adresin/shieldwrt-ui](https://github.com/ebrarkadir/react-firewall-ui))
-- 🔧 API Sunucusu/API Server: [shieldwrt-api]([https://github.com/kendi-adresin/shieldwrt-api](https://github.com/ebrarkadir/openwrt-firewall-api))
+- 🎛️ Kullanıcı Arayüzü / UI: [shieldwrt-ui](https://github.com/ebrarkadir/react-firewall-ui)  
+- 🔧 API Sunucusu / API Server: [shieldwrt-api](https://github.com/ebrarkadir/openwrt-firewall-api)
+
 
 ---
 
