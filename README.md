@@ -1,15 +1,15 @@
-# 🛡️ ShieldWrt
+# 🛡️ **ShieldWrt**
 
-🇹🇷 **ShieldWrt**, ev kullanıcıları ve küçük ofisler için düşük maliyetli, kullanıcı dostu bir ağ güvenlik çözümüdür. Web arayüzü üzerinden kolayca kural ekleme, düzenleme ve silme işlemleri yapabileceğiniz bu proje, temel ağ güvenliği ihtiyaçlarınızı teknik bilgiye ihtiyaç duymadan karşılamanızı hedefler.
-🇬🇧 **ShieldWrt**, is a budget-friendly, user-friendly network security solution designed for home users and small offices. Through its web interface, users can easily add, edit, or delete firewall rules without requiring technical knowledge.
+🇹🇷 ShieldWrt, ev kullanıcıları ve küçük ofisler için düşük maliyetli, kullanıcı dostu bir ağ güvenlik çözümüdür. Web arayüzü üzerinden kolayca kural ekleme, düzenleme ve silme işlemleri yapabileceğiniz bu proje, temel ağ güvenliği ihtiyaçlarınızı teknik bilgiye ihtiyaç duymadan karşılamanızı hedefler.  
+🇬🇧 ShieldWrt is a budget-friendly, user-friendly network security solution designed for home users and small offices. Through its web interface, users can easily add, edit, or delete firewall rules without requiring technical knowledge.
+
 ---
 
-## 🚀 Proje Tanıtımı
+**🚀 Proje Tanıtımı / Project Overview**
 
-🇹🇷 **ShieldWrt**, React ile geliştirilmiş bir kullanıcı arayüzü (UI) ve Node.js/Express ile yazılmış bir API sunucusundan oluşur.  
-Her iki sistem de bir **Raspberry Pi** üzerinde çalışan **OpenWRT** tabanlı bir firewall'a bağlanarak ağ kurallarını yönetir.
-🇬🇧 **ShieldWrt** consists of a React-based UI and a Node.js/Express API server.
-Both systems interact with an OpenWRT-based firewall running on a Raspberry Pi, enabling full network rule management.
+🇹🇷 ShieldWrt, React ile geliştirilmiş bir kullanıcı arayüzü (UI) ve Node.js/Express ile yazılmış bir API sunucusundan oluşur. Her iki sistem de bir Raspberry Pi üzerinde çalışan OpenWRT tabanlı bir firewall'a bağlanarak ağ kurallarını yönetir.  
+🇬🇧 ShieldWrt consists of a React-based UI and a Node.js/Express API server. Both systems interact with an OpenWRT-based firewall running on a Raspberry Pi, enabling full network rule management.
+
 ---
 
 ## 🧰 Kullanılan Teknolojiler/Technologies Used
@@ -24,13 +24,12 @@ Both systems interact with an OpenWRT-based firewall running on a Raspberry Pi, 
 
 ## 📁 Alt Repos
 
-- 🎛️ Kullanıcı Arayüzü/UI: [shieldwrt-ui](https://github.com/kendi-adresin/shieldwrt-ui)
-- 🔧 API Sunucusu/API Server: [shieldwrt-api](https://github.com/kendi-adresin/shieldwrt-api)
+- 🎛️ Kullanıcı Arayüzü/UI: [shieldwrt-ui]([https://github.com/kendi-adresin/shieldwrt-ui](https://github.com/ebrarkadir/react-firewall-ui))
+- 🔧 API Sunucusu/API Server: [shieldwrt-api]([https://github.com/kendi-adresin/shieldwrt-api](https://github.com/ebrarkadir/openwrt-firewall-api))
 
 ---
 
-## 🧱 Uygulamada Desteklenen 7 Kural Türü/
-7 Types of Rules Supported in the Application
+## 🧱 Uygulamada Desteklenen 7 Kural Türü/7 Types of Rules Supported in the Application
 
 Aşağıdaki tüm kurallar UI'dan yönetilebilir ve doğrudan OpenWRT'ye uygulanır:
 
@@ -75,11 +74,9 @@ Aşağıdaki tüm kurallar UI'dan yönetilebilir ve doğrudan OpenWRT'ye uygulan
 
 ---
 
-## 👤 Geliştirici/ Developer
-
+**👤 Geliştirici / Developer**  
 **Ebrar Kadir Çetin**  
 📧 cetinebrarkadir@gmail.com  
-🔗 [GitHub Profilim](https://github.com/ebrarkadir)
-💻 [LinkedIn Profilim].(https://www.linkedin.com/in/ebrar-kadir-%C3%A7etin-1a728019b/)
----
+🔗 GitHub: [https://github.com/ebrarkadir](https://github.com/ebrarkadir)  
+💻 LinkedIn: [https://www.linkedin.com/in/ebrar-kadir-çetin-1a728019b](https://www.linkedin.com/in/ebrar-kadir-%C3%A7etin-1a728019b)
 
