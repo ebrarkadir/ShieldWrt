@@ -48,28 +48,28 @@ Aşağıdaki tüm kurallar UI'dan yönetilebilir ve doğrudan OpenWRT'ye uygulan
 ## 🖼️ Arayüz Ekran Görüntüleri
 
 ### 🏠 Ana Sayfa
-![Ana Sayfa](screenshots/home.png)
+![Ana Sayfa](screenshots/home.jpeg)
 
 ### 🌐 DNS Engelleme
-![DNS Blocking](screenshots/dns_blocking.png)
+![DNS Blocking](screenshots/dns_blocking.jpeg)
 
 ### 📶 MAC Adresi Kuralları
-![MAC Rules](screenshots/mac_rules.png)
+![MAC Rules](screenshots/mac_rules.jpeg)
 
 ### 🚦 Trafik Önceliklendirme (QoS)
-![QoS Rules](screenshots/qos_rules.png)
+![QoS Rules](screenshots/qos_rules.jpeg)
 
 ### 🔁 Port Yönlendirme
-![Port Forwarding](screenshots/port_forwarding.png)
+![Port Forwarding](screenshots/port_forwarding.jpeg)
 
 ### ⛔ Port Engelleme
-![Port Blocking](screenshots/port_blocking.png)
+![Port Blocking](screenshots/port_blocking.jpeg)
 
 ### 🕒 Zaman Bazlı Kurallar
-![Time-Based Rules](screenshots/time_rules.png)
+![Time-Based Rules](screenshots/time_rules.jpeg)
 
 ### 🔥 Genel Firewall Kuralları
-![Genel Kurallar](screenshots/firewall_rules.png)
+![Genel Kurallar](screenshots/firewall_rules.jpeg)
 
 ---
 
