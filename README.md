@@ -78,6 +78,7 @@ Aşağıdaki tüm kurallar UI'dan yönetilebilir ve doğrudan OpenWRT'ye uygulan
 **👤 Geliştirici / Developer**  
 **Ebrar Kadir Çetin**  
 📧 cetinebrarkadir@gmail.com  
-🔗 GitHub: [https://github.com/ebrarkadir](https://github.com/ebrarkadir)  
-💻 LinkedIn: [https://www.linkedin.com/in/ebrar-kadir-çetin-1a728019b](https://www.linkedin.com/in/ebrar-kadir-%C3%A7etin-1a728019b)
+🔗 [GitHub](https://github.com/ebrarkadir)  
+💻 [LinkedIn](https://www.linkedin.com/in/ebrar-kadir-%C3%A7etin-1a728019b)
+
 
