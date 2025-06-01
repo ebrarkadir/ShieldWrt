@@ -5,6 +5,14 @@
 
 ---
 
+
+## 📁 Alt Repos
+
+- 🎛️ Kullanıcı Arayüzü / UI: [shieldwrt-ui](https://github.com/ebrarkadir/react-firewall-ui)  
+- 🔧 API Sunucusu / API Server: [shieldwrt-api](https://github.com/ebrarkadir/openwrt-firewall-api)
+
+---
+
 **🚀 Proje Tanıtımı / Project Overview**
 
 🇹🇷 ShieldWrt, React ile geliştirilmiş bir kullanıcı arayüzü (UI) ve Node.js/Express ile yazılmış bir API sunucusundan oluşur. Her iki sistem de bir Raspberry Pi üzerinde çalışan OpenWRT tabanlı bir firewall'a bağlanarak ağ kurallarını yönetir.  
@@ -19,14 +27,6 @@
 - 📡 **OpenWRT** — Firewall cihazı/Firewall OS (Raspberry Pi)
 - 🔒 **SSH (ssh2)** — OpenWRT ile haberleşme/Communication with OpenWRT
 - 📊 **CSV Loglama** — Her işlem sonrası kayıtları/Rule activity logging
-
----
-
-## 📁 Alt Repos
-
-- 🎛️ Kullanıcı Arayüzü / UI: [shieldwrt-ui](https://github.com/ebrarkadir/react-firewall-ui)  
-- 🔧 API Sunucusu / API Server: [shieldwrt-api](https://github.com/ebrarkadir/openwrt-firewall-api)
-
 
 ---
 
