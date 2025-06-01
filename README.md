@@ -44,6 +44,30 @@ Aşağıdaki tüm kurallar UI'dan yönetilebilir ve doğrudan OpenWRT'ye uygulan
 | 6  | **Zaman Bazlı Kurallar** | Erişim izinlerini belirli saatlerde sınırlar. <br />Restricts access based on time ranges. |
 | 7  | **Genel Firewall Kuralları** | Protokol, IP ve port bazlı detaylı kurallar. <br />Advanced filtering based on IP, protocol, and port.|
 
+---
+
+## 🔒 Loglama Özelliği / Logging Features
+
+### 📝 Kural Loglama / Rule Logging
+
+Her gönderilen kural, işlem anında ilgili kategoriye göre CSV formatında loglanır.  
+This system logs each submitted rule immediately into a category-based CSV file.
+
+- `logs/dns_rules_log.csv`
+- `logs/mac_rules_log.csv`
+- `logs/firewall_log.csv`
+*(ve diğer tüm kural tipleri için ayrı ayrı log dosyaları)*  
+*(and individual log files for each rule type)*
+
+---
+
+### 📡 Anlık İstek Takibi / Real-Time Request Monitoring
+
+Gönderilen kurallara gelen trafik, özel geliştirilmiş bir watcher sistemi ile gerçek zamanlı olarak izlenir ve ayrı dosyalara loglanır.  
+Traffic to applied rules is monitored in real time by a custom-built watcher module and logged separately.
+
+Bu özellik ile hangi kuralın ne zaman tetiklendiği gözlemlenebilir.  
+This enables visibility into when and how each rule is triggered.
 
 ---
 
@@ -73,6 +97,11 @@ Aşağıdaki tüm kurallar UI'dan yönetilebilir ve doğrudan OpenWRT'ye uygulan
 ### 🔥 Genel Kurallar / General Firewall Rules
 ![Genel Kurallar](screenshots/firewall_rules.jpeg)
 
+### 📄 Kural Logları / Rule Logging (CSV)
+![POST Logları / POST Logs](./screenshots/log1.png)
+
+📡 Anlık İstek Takibi / Real-Time Request Monitoring
+![Anlık Loglar / Real-Time Logs](./screenshots/log.png)
 ---
 
 **👤 Geliştirici / Developer**  
